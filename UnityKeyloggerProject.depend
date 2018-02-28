@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1518985051 source:c:\users\george\desktop\udemy projects\c++ projects\unitykeyloggerproject\main.cpp
+	<iostream>
+	"helper.h"
+	"KConst.h"
+	"base-64.h"
+	"IO.h"
+	"Timer.h"
+	"SendEmail.h"
+	"KBHook.h"
+
+1516004348 c:\users\george\desktop\udemy projects\c++ projects\unitykeyloggerproject\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1514766202 c:\users\george\desktop\udemy projects\c++ projects\unitykeyloggerproject\header.h
+	<map>
+	<string>
+
+1515565397 c:\users\george\desktop\udemy projects\c++ projects\unitykeyloggerproject\base-64.h
+	<vector>
+	<string>
+
+1518400692 c:\users\george\desktop\udemy projects\c++ projects\unitykeyloggerproject\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"helper.h"
+	"base-64.h"
+
+1516577703 c:\users\george\desktop\udemy projects\c++ projects\unitykeyloggerproject\timer.h
+	<thread>
+	<chrono>
+
+1518399361 c:\users\george\desktop\udemy projects\c++ projects\unitykeyloggerproject\sendemail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"Timer.h"
+	"IO.h"
+	"helper.h"
+
+1514766202 c:\users\george\desktop\udemy projects\c++ projects\unitykeyloggerproject\kconst.h
+	<map>
+	<string>
+
+1518932750 c:\users\george\desktop\udemy projects\c++ projects\unitykeyloggerproject\kbhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"SendEmail.h"
+	"KConst.h"
+	"Timer.h"
+
